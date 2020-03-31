@@ -28,4 +28,4 @@ The user should take care when deploying this web scraping utility.  This is bas
 
 ## Summary of Results
 Here is a screenshot of the final Week 12 results from the 2019 football season.  
-![week_12.png]
+![](week_12.png)
